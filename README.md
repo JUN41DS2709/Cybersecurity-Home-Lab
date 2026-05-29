@@ -31,14 +31,17 @@ This repository documents my rebuilt cybersecurity home lab. The objective of th
 #### Windows 10
 
 * Installed and configured
-
+  ![windows](screenshots/setting_up_windows_10.png)
+  ![windows](screenshots/windows.png)
+  
 #### Metasploitable 2
 
 * Vulnerable Linux machine for security testing
+*  ![metasploitable](screenshots/setting_up_metasploitable2.png)
 
 #### DVWA (Damn Vulnerable Web Application)
-
 * Configured for web security exercises
+  ![dvwa](screenshots/dvwa_setup.png)
 
 ## Security Tools
 
@@ -46,19 +49,23 @@ This repository documents my rebuilt cybersecurity home lab. The objective of th
 
 * Installed and configured
 * Ready for web application testing
+![burp](screenshots/configuring_burpsuite.png)
 
 ### Wireshark
 
 * Installed and configured
 * Used for packet capture and network traffic analysis
-
+![wireshark](screenshots/wireshark_installation)
 ## Learning Platforms
 
 Accounts configured on:
 
 * Hack The Box (HTB)
+![htb](screenshots/hackthebox.png)
 * TryHackMe
+![thm](screenshots/tryhackme.png)
 * PortSwigger Web Security Academy
+![portswigger](screenshots/portswigger.png)
 
 ## Lab Objectives
 
