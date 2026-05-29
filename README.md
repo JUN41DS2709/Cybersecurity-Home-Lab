@@ -14,10 +14,17 @@ This repository documents my rebuilt cybersecurity home lab. The objective of th
 * Updated and upgraded packages
 * Configured networking
 
+![Kali](screenshots/setting_up_linux.png)
+
+![Kali](screenshots/updating_and_upgrading_packages.png)
+![Kali](screenshots/updating_and_upgrading_packages_2.png)
+
+
 #### Windows Subsystem for Linux (WSL)
 
 * Kali Linux installed and configured
 * Ready for command-line security tools and scripting
+![wsl](screenshots/wsl.png)
 
 ### Target Systems
 
